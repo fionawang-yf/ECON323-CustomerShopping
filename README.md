@@ -1,1 +1,1 @@
-# econ323
+# ECON323 - Costumer Shopping Trend
